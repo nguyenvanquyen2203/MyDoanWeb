@@ -1,0 +1,25 @@
+/* #blog-saving-form{
+    min-height: 100vh;
+}
+
+.post-info{
+    background: #f9f9ff;
+}
+.category-items{
+    list-style-type: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.category-selector{
+    position: relative;
+}
+.category-checkbox{
+    position: absolute;
+    right: 0;
+    z-index: 1;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    max-width: 200px;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+ */
